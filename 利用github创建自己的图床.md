@@ -7,4 +7,4 @@
   - 如下：
   - ![](https://cdn.jsdelivr.net/gh/akaileyouyou/justImg/readmeImg/444.1ed619.webp)
     + 目录的话：我们自己可以随便填写
-  - 不能手动在github上修改文件，不然github的token会被自动清除
+  - 不能手动在github上修改文件，不然github的token会被自动清除，只能再次生成token
