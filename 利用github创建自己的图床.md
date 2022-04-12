@@ -3,4 +3,6 @@
 #### 我们需要在github上生成自己的token
   - 参考：https://segmentfault.com/a/1190000041076406
 #### 配置
+  - 如下：
+  - ![](https://cdn.jsdelivr.net/gh/akaileyouyou/justImg/readmeImg/444.1ed619.webp)
   - 已经生成的token：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
