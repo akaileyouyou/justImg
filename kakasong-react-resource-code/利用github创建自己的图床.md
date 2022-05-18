@@ -1,0 +1,10 @@
+#### 这里是上传图片的地方
+  - https://devtool.tech/gallery
+#### 我们需要在github上生成自己的token
+  - 注意事项以及怎么生成，参考：https://segmentfault.com/a/1190000041076406
+    + 必须选择repo
+#### 配置
+  - 如下：
+  - ![](https://cdn.jsdelivr.net/gh/akaileyouyou/justImg/readmeImg/444.1ed619.webp)
+    + 目录的话：我们自己可以随便填写
+  - 不能手动在github上修改文件，不然github的token会被自动清除，只能按照上面步骤再次生成token
